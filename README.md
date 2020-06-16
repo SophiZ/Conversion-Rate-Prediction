@@ -1,5 +1,5 @@
 # Conversion-Rate-Prediction
-Conversion rate, as one of the most important metrics for E-Commerce platform, always plays an critica role for business. As increasing conversion rate is the most cost-efficient and direct way to inprove revenue. Here with the data from an online store, I performed exploratory data analysis and predictive modeling to provide actionable solutions for this store to boost conversion rate and increase revenue. <br>
+Conversion rate, as one of the most important metrics for the E-Commerce platform, always plays a critical role in business. Increasing the conversion rate is the most cost-efficient and direct way to improve revenue. Here with the data from an online store, I performed exploratory data analysis and predictive modeling to provide actionable solutions for this store to boost conversion rate and increase revenue. <br>
 ## Goal:
 To increase conversion rate (# conversions / total sessions)
 
@@ -28,4 +28,4 @@ To increase conversion rate (# conversions / total sessions)
 7. Summary <br>
 
 ### Note: 
-This report is for self-learning prupose. The dataset is from book "A Collection of Data Science Take-Home Challenges". Out of respect the author of the original work, please go to https://datamasked.com/ for the original data.
+This report is for self-learning purpose. The dataset is from the book "A Collection of Data Science Take-Home Challenges". Out of respect to the author of the original work, please go to https://datamasked.com/ for the original data.
